@@ -2,11 +2,7 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-about-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/title-about-light.png">
-  <img src="assets/title-about-light.png" width="784" alt="ABOUT — 물음표가 떠오른 말풍선 하나, 그 뒤로 점선이 이어진다.">
-</picture>
+<img src="assets/title-about.png" width="784" alt="ABOUT — 물음표가 떠오른 말풍선 하나, 그 뒤로 점선이 이어진다.">
 
 <h3>Questions?<br>&emsp;&emsp;&emsp;Quests!</h3>
 
@@ -16,11 +12,7 @@ AI와 질문을 주고받으며 생각의 끝을 자주 확인합니다.<br>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-selected-works-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/title-selected-works-light.png">
-  <img src="assets/title-selected-works-light.png" width="784" alt="SELECTED WORKS — 불 켜진 창 하나, 그 옆으로 점선이 길을 낸다.">
-</picture>
+<img src="assets/title-selected-works.png" width="784" alt="SELECTED WORKS — 불 켜진 창 하나, 그 옆으로 점선이 길을 낸다.">
 
 <table>
   <tr>
