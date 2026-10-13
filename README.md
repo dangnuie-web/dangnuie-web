@@ -29,7 +29,7 @@ AI와 질문을 주고받으며 생각의 끝을 자주 확인합니다.<br>
     <td width="50%" align="right" valign="top">
       <h3><a href="https://github.com/dangnuie-web/pixel-office">Pixel Office</a></h3>
       <p>이번에는 사무실입니다. 출근하는 친구들도 있습니다.</p>
-      <p><a href="https://dangnuie-web.github.io/pixel-office/">설치 안내</a> · <a href="https://github.com/dangnuie-web/pixel-office/releases/latest">다운로드</a> · <a href="https://github.com/dangnuie-web/pixel-office">저장소</a>&nbsp; <code>macOS</code></p>
+      <p><code>macOS</code>&nbsp; <a href="https://github.com/dangnuie-web/pixel-office/releases/latest">다운로드</a> · <a href="https://github.com/dangnuie-web/pixel-office">저장소</a></p>
     </td>
     <td width="50%">
       <img src="assets/card-pixel-office.gif" width="360" alt="Pixel Office. 창과 시계, 모니터 놓인 책상 옆에서 다람쥐가 숨을 고르며 눈을 깜빡인다.">
