@@ -17,22 +17,22 @@ AI와 질문을 주고받으며 생각의 끝을 자주 확인합니다.<br>
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/card-pixel-house.gif" width="360" alt="Pixel House, coming soon. 화분이 놓인 창가 아래, 고양이 두부가 느긋하게 숨을 쉬며 눈을 깜빡인다.">
+      <img src="assets/card-pixel-house.gif" width="360" alt="Pixel House. 화분이 놓인 창가 아래, 고양이 두부가 느긋하게 숨을 쉬며 눈을 깜빡인다.">
     </td>
     <td width="50%" valign="bottom">
-      <h3>Pixel House</h3>
+      <h3><a href="https://github.com/dangnuie-web/pixel-house">Pixel House</a></h3>
       <p>작은 집을 하나 지었습니다. 픽셀로.</p>
-      <p><code>곧 공개</code></p>
+      <p><code>macOS</code>&nbsp; <a href="https://github.com/dangnuie-web/pixel-house/releases/latest">다운로드</a> · <a href="https://github.com/dangnuie-web/pixel-house">저장소</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="right" valign="top">
-      <h3>Pixel Office</h3>
+      <h3><a href="https://github.com/dangnuie-web/pixel-office">Pixel Office</a></h3>
       <p>이번에는 사무실입니다. 출근하는 친구들도 있습니다.</p>
-      <p><code>곧 공개</code></p>
+      <p><a href="https://dangnuie-web.github.io/pixel-office/">설치 안내</a> · <a href="https://github.com/dangnuie-web/pixel-office/releases/latest">다운로드</a> · <a href="https://github.com/dangnuie-web/pixel-office">저장소</a>&nbsp; <code>macOS</code></p>
     </td>
     <td width="50%">
-      <img src="assets/card-pixel-office.gif" width="360" alt="Pixel Office, coming soon. 창과 시계, 모니터 놓인 책상 옆에서 다람쥐가 숨을 고르며 눈을 깜빡인다.">
+      <img src="assets/card-pixel-office.gif" width="360" alt="Pixel Office. 창과 시계, 모니터 놓인 책상 옆에서 다람쥐가 숨을 고르며 눈을 깜빡인다.">
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@ AI와 질문을 주고받으며 생각의 끝을 자주 확인합니다.<br>
 <p>그 밖에도 이것저것 만들었습니다.</p>
 
 <ul>
-  <li><b>inmyin</b> — 가진 물건을 사진으로 찍어 가상 인벤토리에 진열하는 웹앱</li>
-  <li><b>welcome</b> — 콘텐츠와 초대장을 만들고, 방명록을 받는 모바일 우리집</li>
+  <li><a href="https://inmyin.vercel.app"><b>inmyin</b></a> — 가진 물건을 사진으로 찍어 가상 인벤토리에 진열하는 웹앱</li>
+  <li><a href="https://github.com/dangnuie-web/kk"><b>welcome</b></a> — 콘텐츠와 초대장을 만들고, 방명록을 받는 모바일 우리집</li>
   <li><b>icon-preview</b> — 앱 아이콘을 iPhone 홈 화면에 놓아 보는 미리보기 도구</li>
 </ul>
 
