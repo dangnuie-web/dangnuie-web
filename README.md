@@ -44,7 +44,7 @@ AI와 질문을 주고받으며 생각의 끝을 자주 확인합니다.<br>
 <ul>
   <li><a href="https://inmyin.vercel.app"><b>inmyin</b></a> — 가진 물건을 사진으로 찍어 가상 인벤토리에 진열하는 웹앱</li>
   <li><a href="https://github.com/dangnuie-web/kk"><b>welcome</b></a> — 콘텐츠와 초대장을 만들고, 방명록을 받는 모바일 우리집</li>
-  <li><b>icon-preview</b> — 앱 아이콘을 iPhone 홈 화면에 놓아 보는 미리보기 도구</li>
+  <li><a href="https://github.com/dangnuie-web/icon-preview-public"><b>icon-preview</b></a> — 앱 아이콘을 iPhone 홈 화면에 놓아 보는 미리보기 도구</li>
 </ul>
 
 <br>
